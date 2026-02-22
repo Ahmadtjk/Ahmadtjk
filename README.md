@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @Ahmadtjk
-- 👀 I’m interested in Blockchain Development 
+- 👀 I’m interested in Blockchain Development
+- Data Science, Machine Leqarning, Deep Learning
+- Financial Engineering, Financial Analytics
+- Quantitative Research snf Operations Research
 - 🌱 I’m currently learning Solidity, Brownie, python 
 - 💞️ I’m looking to collaborate on Remix Project, Solidity, Moralis project in Dapps, 
 - 📫 How to reach me atkassim@gmail.com
